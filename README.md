@@ -51,11 +51,16 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
   </a>
 
-  <br/><br/>
+  <br/>  <br/>
+
 
   <!-- Badges centered below -->
   <img src="https://img.shields.io/badge/SSIS-%230075A8.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSIS" height="30"/>
   <img src="https://img.shields.io/badge/talend-%23007ACC.svg?style=for-the-badge&logo=talend&logoColor=white" alt="Talend" height="30"/>
   <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="30"/>
+
+  <br>   <br/>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skander-Lt&layout=pie)](https://github.com/Skander-Lt/github-readme-stats)
 
 </div>
