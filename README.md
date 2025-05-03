@@ -61,6 +61,6 @@
 
   <br>   <br/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skander-Lt&layout=pie)](https://github.com/Skander-Lt/github-readme-stats)
+
 
 </div>
